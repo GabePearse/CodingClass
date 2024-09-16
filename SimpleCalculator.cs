@@ -1,1 +1,0 @@
-C:/Users/gabe/OneDrive - NAIT/School/CPSC1012/SimpleCalculator/SimpleCalculator.cs
